@@ -43,7 +43,9 @@
 			<key>FakeProperties</key>
 			<dict>
 				<key>RM,device-id</key>
-				<data>cKEAAA==</data>
+				<data>
+				cKEAAA==
+				</data>
 			</dict>
 			<key>IOClass</key>
 			<string>FakePCIID</string>
@@ -61,7 +63,9 @@
 			<key>FakeProperties</key>
 			<dict>
 				<key>RM,device-id</key>
-				<data>cJ0AAA==</data>
+				<data>
+				cJ0AAA==
+				</data>
 			</dict>
 			<key>IOClass</key>
 			<string>FakePCIID</string>
@@ -79,7 +83,9 @@
 			<key>FakeProperties</key>
 			<dict>
 				<key>RM,device-id</key>
-				<data>cKEAAA==</data>
+				<data>
+				cKEAAA==
+				</data>
 			</dict>
 			<key>IOClass</key>
 			<string>FakePCIID</string>
@@ -97,7 +103,9 @@
 			<key>FakeProperties</key>
 			<dict>
 				<key>RM,device-id</key>
-				<data>cKEAAA==</data>
+				<data>
+				cKEAAA==
+				</data>
 			</dict>
 			<key>IOClass</key>
 			<string>FakePCIID</string>
@@ -115,7 +123,9 @@
 			<key>FakeProperties</key>
 			<dict>
 				<key>RM,device-id</key>
-				<data>DAoAAA==</data>
+				<data>
+				DAoAAA==
+				</data>
 			</dict>
 			<key>IOClass</key>
 			<string>FakePCIID</string>
