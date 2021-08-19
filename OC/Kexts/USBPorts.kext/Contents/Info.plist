@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac20,1-XHC</key>
+		<key>iMac19,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -48,10 +48,21 @@
 				<integer>5100</integer>
 				<key>port-count</key>
 				<data>
-				GAAAAA==
+				FQAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
+					<key>HS01</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>HS01</string>
+						<key>port</key>
+						<data>
+						AQAAAA==
+						</data>
+					</dict>
 					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -85,26 +96,26 @@
 						BAAAAA==
 						</data>
 					</dict>
-					<key>HS07</key>
+					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
-						<string>HS07</string>
+						<string>HS05</string>
 						<key>port</key>
 						<data>
-						BwAAAA==
+						BQAAAA==
 						</data>
 					</dict>
-					<key>HS08</key>
+					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
-						<string>HS08</string>
+						<string>HS06</string>
 						<key>port</key>
 						<data>
-						CAAAAA==
+						BgAAAA==
 						</data>
 					</dict>
 					<key>HS09</key>
@@ -118,15 +129,26 @@
 						CQAAAA==
 						</data>
 					</dict>
-					<key>HS14</key>
+					<key>HS10</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>name</key>
+						<string>HS10</string>
+						<key>port</key>
+						<data>
+						CgAAAA==
+						</data>
+					</dict>
+					<key>HS11</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>HS14</string>
+						<string>HS11</string>
 						<key>port</key>
 						<data>
-						DgAAAA==
+						CwAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -184,43 +206,10 @@
 						FQAAAA==
 						</data>
 					</dict>
-					<key>SS06</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>9</integer>
-						<key>name</key>
-						<string>SS06</string>
-						<key>port</key>
-						<data>
-						FgAAAA==
-						</data>
-					</dict>
-					<key>SS07</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>SS07</string>
-						<key>port</key>
-						<data>
-						FwAAAA==
-						</data>
-					</dict>
-					<key>SS08</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-						<key>name</key>
-						<string>SS08</string>
-						<key>port</key>
-						<data>
-						GAAAAA==
-						</data>
-					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac20,1</string>
+			<string>iMac19,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
